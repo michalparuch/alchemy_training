@@ -4,7 +4,7 @@ from sqlalchemy.orm import Session
 from models import Base, Gracze, Gry, Konta
 
 login = 'root'
-password = 'Kina23usxy5'
+password = '****'
 host = '127.0.0.1'
 port = '3306'
 db_name = 'zabawa'
